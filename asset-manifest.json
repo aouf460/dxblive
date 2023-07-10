@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dxblive/static/css/main.2612ee55.css",
-    "main.js": "/dxblive/static/js/main.9e607ee1.js",
-    "static/js/787.4106977f.chunk.js": "/dxblive/static/js/787.4106977f.chunk.js",
-    "index.html": "/dxblive/index.html",
-    "main.2612ee55.css.map": "/dxblive/static/css/main.2612ee55.css.map",
-    "main.9e607ee1.js.map": "/dxblive/static/js/main.9e607ee1.js.map",
-    "787.4106977f.chunk.js.map": "/dxblive/static/js/787.4106977f.chunk.js.map"
+    "main.css": "/dxblive/Home/static/css/main.2612ee55.css",
+    "main.js": "/dxblive/Home/static/js/main.fa040781.js",
+    "static/js/787.4106977f.chunk.js": "/dxblive/Home/static/js/787.4106977f.chunk.js",
+    "index.html": "/dxblive/Home/index.html",
+    "main.2612ee55.css.map": "/dxblive/Home/static/css/main.2612ee55.css.map",
+    "main.fa040781.js.map": "/dxblive/Home/static/js/main.fa040781.js.map",
+    "787.4106977f.chunk.js.map": "/dxblive/Home/static/js/787.4106977f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2612ee55.css",
-    "static/js/main.9e607ee1.js"
+    "static/js/main.fa040781.js"
   ]
 }
