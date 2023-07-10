@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dxblive/Home/static/css/main.2612ee55.css",
+    "main.js": "/dxblive/Home/static/js/main.fa040781.js",
+    "static/js/787.4106977f.chunk.js": "/dxblive/Home/static/js/787.4106977f.chunk.js",
+    "index.html": "/dxblive/Home/index.html",
+    "main.2612ee55.css.map": "/dxblive/Home/static/css/main.2612ee55.css.map",
+    "main.fa040781.js.map": "/dxblive/Home/static/js/main.fa040781.js.map",
+    "787.4106977f.chunk.js.map": "/dxblive/Home/static/js/787.4106977f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2612ee55.css",
+    "static/js/main.fa040781.js"
+  ]
+}
