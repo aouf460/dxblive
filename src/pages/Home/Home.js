@@ -32,8 +32,7 @@ function Home() {
 </div>
 <div className='card-container'>
 <div class="tilting-card-content">
-  <h1>Tilting card</h1>
-  <p>with css only!</p>
+  <h4>Hover or press</h4><h4> on the edges !</h4>
 
   <div class="mouse-position-tracker">
     <div></div>
